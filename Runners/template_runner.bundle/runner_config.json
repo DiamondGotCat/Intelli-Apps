@@ -1,0 +1,7 @@
+{
+    "name": "Template Runner",
+    "version": "1.0.0",
+    "description": "This is a template Runner for Intelli runners.",
+    "author": "Your Name",
+    "main": "runner.js"
+}
